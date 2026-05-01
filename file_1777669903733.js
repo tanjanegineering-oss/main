@@ -1,0 +1,25 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1" />
+            <meta name="class" content="ohmxseic">
+            <title></title>
+            <style>
+                html,
+                body {
+                    margin: 0;
+                    padding: 0;
+                    height: 100%;
+                    overflow: hidden;
+                }
+            </style>
+        </head>
+
+        <body>
+
+            <script src="{{URL}}"></script>
+        </body>
+
+        </html>
